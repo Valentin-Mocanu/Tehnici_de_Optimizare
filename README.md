@@ -1,2 +1,2 @@
 # Tehnici_de_Optimizare
-Teme realizate in timpul desfasurarii acestui curs
+In acest repository voi posta temele realizate in timpul desfasurarii orelor de laborator din cursul "Tehnici de Optimizare"!
